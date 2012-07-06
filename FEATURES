@@ -2,18 +2,33 @@ This is a features files.
 
 This file wil contain all the ideas I have prepared to implement in the project.
 
-Base Features
-=============
+Base System
+===========
 
 The project will be to create a Universal Profile System where the code can later be modified to be implemented into anytype of system.
 In today's world there is a login/logout user account system for anytypes of business. This Universal Profile System will help other
 developer to easy jump start without any difficulties. Save time and coffee money.
 
 
-Features to be implemented
-==========================
+
+Global Features
+===============
+
+# List members alphabetically
+# List members online
+# List Male/Female seperately
+
+
+User Features
+===============
 
 # Create a login system with SHA1 password encryption.
 # Use Single Sign Login Authentication (Facebook, Twitter etc).
 # User can upload profile photo, update their profile details and update status.
-# more to come... 
+# User can invite their friends via email.
+# 
+
+
+
+
+
