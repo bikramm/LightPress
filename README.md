@@ -1,9 +1,9 @@
-LightPress
+<h3>LightPress</h3>
 ==========
 
 Jumpstart your website's core engine. Save time and efforts using this code to expedite the core engine that runs many website. Using this simple but robust blog application you can turn it into anything you want. Its highly secured and elegant.
 
-Top Features
+<h3>Top Features</h3>
 ============
 
 1:  Frontend built with bootstrap
@@ -16,6 +16,6 @@ Top Features
 
 
 
-#last updated: Tuesday Jan 19th, 2016
+last updated: Tuesday Jan 19th, 2016
 
 
