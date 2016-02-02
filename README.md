@@ -20,7 +20,7 @@ Jumpstart your website's core engine. Save time and efforts using this code to e
 - Suggest changes
 - Supports Chrome, Firefox, and Opera.
 
-####  features
+####  FEATURES
 
 
 last updated: Tuesday Feb 2nd, 2016
