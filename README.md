@@ -15,6 +15,15 @@ Jumpstart your website's core engine. Save time and efforts using this code to e
    -- Favorite <br>
 
 
+#### TODO
+
+- **Watch ** LightPress on Github
+  Fork and make changes
+- Suggest changes
+- Supports Chrome, Firefox, and Opera.
+
+####  features
+
 
 last updated: Tuesday Feb 2nd, 2016
 
